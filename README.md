@@ -12,6 +12,9 @@ ________________________________________________________________________________
 
 ## Technical Analysis Deliverable 1 ##
 
+### Code for Creation of Tables ###
+https://github.com/GR8505/Pewlett-Hackard-Analysis/blob/master/Queries/Challenge7_Assignment.sql
+
 ### Number of Titles Retiring ###
 Please refer to https://github.com/GR8505/Pewlett-Hackard-Analysis/blob/master/Assignment_Data/num_titles.csv
 
