@@ -12,7 +12,8 @@ ________________________________________________________________________________
 
 ## Technical Analysis Deliverable 1 ##
 
-### Number of Retiring Employees by Title ###
+### Number of Titles Retiring ###
+Please refer to
 
 ### Number of Employees with Each Title ###
 Please refer to https://github.com/GR8505/Pewlett-Hackard-Analysis/blob/master/Assignment_Data/emp_group_title.csv
