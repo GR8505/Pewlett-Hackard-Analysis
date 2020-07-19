@@ -25,3 +25,10 @@ Please refer to https://github.com/GR8505/Pewlett-Hackard-Analysis/blob/master/A
 ### and December 31, 1955 ###
 Please refer to https://github.com/GR8505/Pewlett-Hackard-Analysis/blob/master/Assignment_Data/emp_titles.csv
 
+____________________________________________________________________________________________________________________
+
+
+## Technical Analysis Deliverable 2 ##
+
+### List of Employees Eligible for Mentorship Program ###
+Please refer to 
