@@ -12,5 +12,7 @@ ________________________________________________________________________________
 
 ## Technical Analysis Deliverable 1 ##
 ### Number of Retiring Employees by Title ###
-![](Assignment_Data/emp_group_title.csv)
+
+
+Assignment_Data/emp_group_title.csv
 
