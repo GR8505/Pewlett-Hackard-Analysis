@@ -3,7 +3,7 @@ ________________________________________________________________________________
 
 ## Technical Analysis ##
 
-![](https://github.com/GR8505/Pewlett-Hackard-Analysis/blob/master/EmployeeDB.png)
+![Entity Relationship Diagram](https://github.com/GR8505/Pewlett-Hackard-Analysis/blob/master/EmployeeDB.png)
 
 
 _________________________________________________________________________________________________
