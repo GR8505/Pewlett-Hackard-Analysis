@@ -34,7 +34,7 @@ ________________________________________________________________________________
 Please refer to https://github.com/GR8505/Pewlett-Hackard-Analysis/blob/master/Assignment_Data/mentor.csv
 
 ### Eligible Mentees by Job Title ###
-Please refer to 
+Please refer to https://github.com/GR8505/Pewlett-Hackard-Analysis/blob/master/Assignment_Data/mentor_group.csv
 
 ### Block of code used to produce results ###
 -- Deliverable 2: Mentorship Eligibility
