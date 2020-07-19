@@ -249,6 +249,15 @@ FROM emp_titles
 GROUP BY title
 ORDER BY COUNT(emp_no) DESC;
 
+SELECT * FROM emp_group_title;
+
+
+-- Getting Number of Titles Retiring
+SELECT COUNT(title) 
+INTO num_titles
+FROM emp_group_title;
+
+
 
 -- Deliverable 2: Mentorship Eligibility
 -- Creating table with Employees with birth dates in 1965
