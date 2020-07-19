@@ -31,4 +31,6 @@ ________________________________________________________________________________
 ## Technical Analysis Deliverable 2 ##
 
 ### List of Employees Eligible for Mentorship Program ###
-Please refer to 
+Please refer to https://github.com/GR8505/Pewlett-Hackard-Analysis/blob/master/Assignment_Data/mentor.csv
+
+### Block of code used to produce results ###
