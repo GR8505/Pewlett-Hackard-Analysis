@@ -1,20 +1,20 @@
 # Pewlett-Hackard-Analysis
 ______________________________________________________________________________________________________________________
 
-## Technical Analysis ##
-
-### Entity Relationship Diagram (ERD) ###
-![](https://github.com/GR8505/Pewlett-Hackard-Analysis/blob/master/EmployeeDB.png)
-
+# Technical Analysis #
 
 _______________________________________________________________________________________________________________________________
 ## Summary of Results ##
 
-### Number of Individuals Retiring ### - 33,118
+### Number of Individuals Retiring - 33,118 ###
+### Number of Employees Available for mentorship - 1,549 ###
 
+### Recommendation ###
+- We can also identify a list of managers who are retiring and identify employees to be mentored into these
+specific roles.
 
-
-
+### Entity Relationship Diagram (ERD) ###
+![](https://github.com/GR8505/Pewlett-Hackard-Analysis/blob/master/EmployeeDB.png)
 
 __________________________________________________________________________________________________________________________________
 
