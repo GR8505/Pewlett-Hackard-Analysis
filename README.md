@@ -36,23 +36,14 @@ ________________________________________________________________________________
 
 [Number of Employees with Each Title](https://github.com/GR8505/Pewlett-Hackard-Analysis/blob/master/Assignment_Data/emp_group_title.csv)
 
-### List of current employees born between January 1, 1952 ###
-### and December 31, 1955 ###
-Please refer to https://github.com/GR8505/Pewlett-Hackard-Analysis/blob/master/Assignment_Data/emp_titles.csv
-
+[List](https://github.com/GR8505/Pewlett-Hackard-Analysis/blob/master/Assignment_Data/emp_titles.csv) of current employees born between January 1, 1952 and December 31, 1955
 ___________________________________________________________________________________________________________________________
-
 
 ## Technical Analysis Deliverable 2 ##
 
-### List of Employees Eligible for Mentorship Program ###
-Please refer to https://github.com/GR8505/Pewlett-Hackard-Analysis/blob/master/Assignment_Data/mentor.csv
+[List](https://github.com/GR8505/Pewlett-Hackard-Analysis/blob/master/Assignment_Data/mentor.csv) of Employees Eligible for Mentorship Program
 
-### Eligible Mentees by Job Title ###
-Please refer to https://github.com/GR8505/Pewlett-Hackard-Analysis/blob/master/Assignment_Data/mentor_group.csv
-
-### Block of code used to produce results ###
-Refer to Deliverable 2 Section of https://github.com/GR8505/Pewlett-Hackard-Analysis/blob/master/Queries/Challenge7_Assignment.sql
+[Eligible Mentees by Job Title](https://github.com/GR8505/Pewlett-Hackard-Analysis/blob/master/Assignment_Data/mentor_group.csv)
 
 ______________________________________________________________________________________________________________________________
 
