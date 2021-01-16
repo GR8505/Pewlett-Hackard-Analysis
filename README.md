@@ -1,22 +1,32 @@
-# Pewlett-Hackard-Analysis
+# Pewlett Hackard Analysis
 ______________________________________________________________________________________________________________________
 
-# Technical Analysis #
+## Objectives
 
-_______________________________________________________________________________________________________________________________
+**Technical Analysis Deliverable 1: Number of Retiring Employees by Title**
+* Create three new tables, one showing number of titles retiring, one showing number of employees with each title, and 
+  one showing a list of current employees born between Jan. 1, 1952 and Dec. 31, 1955. New tables are exported as CSVs. 
+  
+**Technical Analysis Deliverable 2: Mentorship Eligibility**
+* Create a table containing employees who are eligible for the mentorship program You will submit your table and the 
+  CSV containing the data (and the CSV containing the data)
+
+______________________________________________________________________________________________________________________
+
+## Resources
+* postgreSQL
+* pgadmin4
+
+______________________________________________________________________________________________________________________
+
 ## Summary of Results ##
+* Number of Individuals Retiring - 33,118 
+* Number of Employees Available for mentorship - 1,549
 
-### Number of Individuals Retiring - 33,118 ###
-### Number of Employees Available for mentorship - 1,549 ###
-
-### Recommendation ###
-- We can also identify a list of managers who are retiring and identify employees to be mentored into these
-specific roles.
-
-### Entity Relationship Diagram (ERD) ###
+## Entity Relationship Diagram (ERD) ##
 ![](https://github.com/GR8505/Pewlett-Hackard-Analysis/blob/master/EmployeeDB.png)
 
-__________________________________________________________________________________________________________________________________
+______________________________________________________________________________________________________________________
 
 ## Technical Analysis Deliverable 1 ##
 
