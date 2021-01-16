@@ -30,14 +30,11 @@ ________________________________________________________________________________
 
 ## Technical Analysis Deliverable 1 ##
 
-### Code for Creation of Tables ###
-Refer to Devliverable 1 section https://github.com/GR8505/Pewlett-Hackard-Analysis/blob/master/Queries/Challenge7_Assignment.sql
+[Code](https://github.com/GR8505/Pewlett-Hackard-Analysis/blob/master/Queries/Challenge7_Assignment.sql) for Creation of Tables.
 
-### Number of Titles Retiring ###
-Please refer to https://github.com/GR8505/Pewlett-Hackard-Analysis/blob/master/Assignment_Data/num_titles.csv
+[Number of Titles Retiring](https://github.com/GR8505/Pewlett-Hackard-Analysis/blob/master/Assignment_Data/num_titles.csv)
 
-### Number of Employees with Each Title ###
-Please refer to https://github.com/GR8505/Pewlett-Hackard-Analysis/blob/master/Assignment_Data/emp_group_title.csv
+[Number of Employees with Each Title](https://github.com/GR8505/Pewlett-Hackard-Analysis/blob/master/Assignment_Data/emp_group_title.csv)
 
 ### List of current employees born between January 1, 1952 ###
 ### and December 31, 1955 ###
